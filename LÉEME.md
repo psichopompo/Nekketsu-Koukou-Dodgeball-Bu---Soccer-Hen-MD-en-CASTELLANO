@@ -1,10 +1,19 @@
+<p align="center">
+  <img width="768" height="327" alt="IMG_4520" src="https://github.com/user-attachments/assets/4a78ca83-c811-49a9-89b3-7602a6f95ca1" />
+</p>
+
 # NEKKETSU KOUKOU DODGEBALL-BU — SOCCER HEN MD
 
 ### Traducción al castellano · v2.8
 
 **Mega Drive / Genesis · Technos Japan, 1992 · Japón (exclusivo)**
-**Traducción: Psicopompo
+
+**Traductor:** Psicopompo
+
 ---
+
+<img width="256" height="224" alt="axHgJ2G" src="https://github.com/user-attachments/assets/27f10b2d-332a-4fc1-b861-775d59ab90eb" />
+
 
 ## 1. Qué es esto
 
@@ -148,7 +157,24 @@ archivo y no se cobre por él.
 
 ---
 
-## 9. Historial
+## 9. Capturas
+
+Algunas capturas de la traducción.
+
+<img width="256" height="224" alt="t0LsTYb" src="https://github.com/user-attachments/assets/052ac1d7-54ce-4118-87e0-11bd4b154d22" /> 
+<img width="256" height="224" alt="yKVk573" src="https://github.com/user-attachments/assets/3ca60c00-cc5e-48e0-8fce-686228a53900" /> 
+<img width="256" height="224" alt="Ba4MWZB" src="https://github.com/user-attachments/assets/be98a81b-34d7-49da-a71d-32fb2775ed78" /> 
+<img width="256" height="224" alt="cPGyYgw" src="https://github.com/user-attachments/assets/0dfa0d82-4893-4783-b341-f7674814a108" /> 
+<img width="256" height="224" alt="S25IbEB" src="https://github.com/user-attachments/assets/55a9f814-268a-4dd8-b208-3fb9dc849368" /> 
+<img width="256" height="224" alt="sP69gbS" src="https://github.com/user-attachments/assets/bdbb8730-06e8-471d-8304-7b1284ee46fc" /> 
+<img width="256" height="224" alt="f0kK1pt" src="https://github.com/user-attachments/assets/ee0cd6f6-9046-4e4f-a68f-f152eeadb45b" /> 
+<img width="256" height="224" alt="fr9QMig" src="https://github.com/user-attachments/assets/b77c32a9-0c79-405f-a096-4a6f7ae5262e" /> 
+<img width="256" height="224" alt="LSe87Ln" src="https://github.com/user-attachments/assets/a8b57027-7c00-412a-adfc-bdd2141b5cfb" /> 
+<img width="256" height="224" alt="5IT1dbi" src="https://github.com/user-attachments/assets/3c42a7cd-48ce-4dd3-b4b0-43682806827f" /> 
+
+---
+
+## 10. Historial
 
 | Versión | Cambios |
 |---|---|
