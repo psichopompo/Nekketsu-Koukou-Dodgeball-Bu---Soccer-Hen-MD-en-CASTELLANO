@@ -1,4 +1,5 @@
 <img width="768" height="327" alt="IMG_4520" src="https://github.com/user-attachments/assets/4a78ca83-c811-49a9-89b3-7602a6f95ca1" />
+
 # NEKKETSU KOUKOU DODGEBALL-BU — SOCCER HEN MD
 
 ### Traducción al castellano · v2.8
