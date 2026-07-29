@@ -12,7 +12,8 @@
 
 ---
 
-<img width="256" height="224" alt="axHgJ2G" src="https://github.com/user-attachments/assets/27f10b2d-332a-4fc1-b861-775d59ab90eb" />
+<img width="256" height="224" alt="axHgJ2G" src="https://github.com/user-attachments/assets/27f10b2d-332a-4fc1-b861-775d59ab90eb" /> <img width="256" height="224" alt="NekketsuKoukouDodgeballBu_MDTitleScreen" src="https://github.com/user-attachments/assets/56ad40e0-ebef-434c-b9a2-8c68b59d65eb" />
+
 
 
 ## 1. Qué es esto
